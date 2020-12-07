@@ -1,25 +1,22 @@
-# Initial page
+---
+description: First thing first
+---
 
-## Getting Super Powers
+# 🚀
 
-Becoming a super hero is a fairly straight forward process:
+![Manhole as](.gitbook/assets/image%20%281%29%20%281%29%20%281%29%20%281%29.png)
 
-```
-$ give me super-powers
-```
+This webpage is for documenting Dynamo \(for Revit and Civil 3D\) technical sessions held regularly.  
 
 {% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+ We hold this session from 11.15 AM every Thursday. So far, so good👍
 {% endhint %}
 
-Once you're strong enough, save the world:
+### Prerequisites
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
-
-
+* Dynamo Core 2.6.1.8786
+* Dynamo Revit 2.6.1.8850
+* Dynamo Civil 3D 2.5.1.854
+* Revit 2021
+* Civil 3D 2021
 
