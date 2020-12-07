@@ -3,7 +3,7 @@
 * [🚀](README.md)
 * [Schedule](schedule.md)
 
-## Workshop
+## ⚒Workshop
 
 * [Revit](workshop/revit/README.md)
   * [\#01 Induction/Navigation/Resource](workshop/revit/01-induction-navigation-resource.md)
