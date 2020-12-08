@@ -4,9 +4,7 @@ description: ググってマンホールの寸法を取りながらマンホー�
 
 # \#03 マンホール作成 01
 
-マンホーManhole Manhole Againasdf
+{% embed url="https://unihole.jp/kouzou/size/manhole\_1/" %}
 
 
-
-asdfasdfasdf
 
