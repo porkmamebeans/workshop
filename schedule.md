@@ -10,7 +10,7 @@
 | [\#05 マンホール作成 03](workshop/dynamo-for-revit/05-manhole-03.md) | まとめ、演習問題。 | 2020/11/26 |
 | [\#06 リスト/データ構造 01](workshop/dynamo-for-revit/06-list-01.md) | 様々な種類・組み合わせのオブジェクトや操作を行うために最重要なデータ構造を学ぼう。 | 2020/12/03 |
 | [\#07 リスト/データ構造 02](workshop/dynamo-for-revit/07-list-02.md) | つづき。 | 2020/12/10 |
-| \#08 | TBA | TBA |
+| \#08 Revitとの連携 | TBA | TBA |
 | \#09 | TBA | TBA |
 | \#10 | TBA | TBA |
 | \#11 | TBA | TBA |
