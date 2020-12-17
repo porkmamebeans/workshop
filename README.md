@@ -11,7 +11,7 @@ description: ことはじめ
 このウェブサイトは毎週行われているDynamo \(Revit and Civil 3D\)のオンライン研究会を記録するためのものです。
 
 {% hint style="info" %}
-毎週木曜日11:15AMから順調にやってます👊
+毎週木曜日11:15AMからやってます👊
 {% endhint %}
 
 ### 環境
