@@ -62,7 +62,7 @@ NumberSliderの設定は左側の矢印を選択すると設定することが�
 
 ### 作成した線から面を押し出す方法
 
- **Geometory**  の中にある**Curve**から**Extrude**を選択します.
+**Geometory** の中にある**Curve**から**Extrude**を選択します.
 
 ![image](https://user-images.githubusercontent.com/48234687/102004748-c2d2aa80-3d56-11eb-99b4-8ffe16470aad.png)
 
@@ -83,7 +83,6 @@ NumberSliderの設定は左側の矢印を選択すると設定することが�
 {% hint style="danger" %}
 フリーズはノードが多くなった場合，動作が重くなるため必要な時以外はフリーズにすることをお勧めします. 必要な時にだけフリーズを解除して表示してください.
 {% endhint %}
-
 
 ### アトラクタの作成
 
@@ -138,5 +137,4 @@ Sequenceの出力をx,yに接続した後に，**Point.ByCoordinates**の出力�
 押し出しの操作を加えることで以下の様に円柱も作成可能になります．
 
 ## ![image](https://user-images.githubusercontent.com/48234687/102008841-b8280d80-3d76-11eb-8176-e1cd7066d654.png)
-
 
