@@ -14,7 +14,9 @@
   * [\#06 リスト/データ構造 01](workshop/dynamo-for-revit/06-list-01.md)
   * [\#07 リスト/データ構造 02](workshop/dynamo-for-revit/07-list-02.md)
   * [\#08 Revitとの連携](workshop/dynamo-for-revit/08-revittono.md)
+* [Civil3D編](workshop/civil3d-bian.md)
 * [Civil 3D 編](workshop/civil-3d-bian/README.md)
+  * [\#09 Civil3Dへの導入](workshop/civil-3d-bian/09-civil3dheno.md)
   * [\#09 Civil 3Dの導入](workshop/civil-3d-bian/09-civil-3dno.md)
 
 ---
