@@ -16,11 +16,14 @@
   * [\#08 Revitとの連携](workshop/dynamo-for-revit/08-revittono.md)
 * [Civil 3D 編](workshop/civil-3d-bian/README.md)
   * [\#09 Civil 3Dの導入](workshop/civil-3d-bian/09-civil-3dno.md)
+  * [\#10 コリドーに横断図を配置する 01](workshop/civil-3d-bian/10-koridniwosuru-01.md)
+  * [\#11 コリドーに横断図を配置する 02](workshop/civil-3d-bian/11-koridniwosuru-02.md)
 
 ---
 
 * [Dynamo Primer](https://primer.dynamobim.org/)
 * [Autodesk Forums](https://forums.autodesk.com/t5/revit-products/ct-p/2003)
+* [Dynamo Dictionary](https://dictionary.dynamobim.com/#/)
 * [The Building Coder](https://thebuildingcoder.typepad.com/blog/dynamo/)
 * [DesignScript Language Specification](https://dynamobim.org/wp-content/links/DesignScriptGuide.pdf)
 * [Revit API Docs](https://www.revitapidocs.com/)
