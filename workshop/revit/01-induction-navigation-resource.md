@@ -29,7 +29,7 @@ There are two modes of navigation in Dynamo:
 * Graph View Navigation
 * Background 3D View Navigation
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%287%29%20%281%29.png)
 
 You can switch between these two mode by clicking buttons at right top corner. 
 

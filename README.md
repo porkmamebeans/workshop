@@ -4,7 +4,7 @@ description: First thing first
 
 # 🚀
 
-![Manhole as](.gitbook/assets/image%20%281%29%20%281%29%20%281%29%20%281%29.png)
+![Manhole as](.gitbook/assets/image%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.png)
 
 This webpage is for documenting Dynamo \(for Revit and Civil 3D\) technical sessions held regularly.  
 
