@@ -60,5 +60,11 @@ description: マンホールのまとめ、演習問題。
 
 ImportInstance.ByGeometryを使用してRevitでオブジェクトとして出力することができます．
 
+
+
 ![image](https://user-images.githubusercontent.com/48234687/103402704-ea1bdb00-4b90-11eb-9eec-43b1aaabb55e.png)
+
+### 完成
+
+{% file src="../../.gitbook/assets/desktop-2021.03.16-13.37.53.02.mp4" caption="デモ" %}
 
