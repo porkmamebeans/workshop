@@ -30,4 +30,5 @@
 * [Civil 3D .NET API Docs](http://docs.autodesk.com/CIV3D/2019/ENU/API_Reference_Guide/index.html)
 * [これのMiroボード](https://miro.com/app/live-embed/o9J_kheBEAU=/?moveToViewport=-664,-1335,39736,20753)
 * [AutoCAD .NET API](http://docs.autodesk.com/ACD/2013/JPN/index.html?url=files/GUID-390A47DB-77AF-433A-994C-2AFBBE9996AE.htm,topicNumber=d30e711280)
+* [Dynamoトレーニングテキスト](http://bim-design.com/infra/training/dynamo.html)
 
