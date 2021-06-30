@@ -14,6 +14,7 @@
   * [\#06 リスト/データ構造 01](workshop/dynamo-for-revit/06-list-01.md)
   * [\#07 リスト/データ構造 02](workshop/dynamo-for-revit/07-list-02.md)
   * [\#08 Revitとの連携](workshop/dynamo-for-revit/08-revittono.md)
+  * [\#09 トレーニングテキスト](workshop/dynamo-for-revit/09-torningutekisuto.md)
 * [Civil 3D 編](workshop/civil-3d-bian/README.md)
   * [\#09 Civil 3Dの導入](workshop/civil-3d-bian/09-civil-3dno.md)
   * [\#10 コリドーに横断図を配置する 01](workshop/civil-3d-bian/10-koridniwosuru-01.md)
