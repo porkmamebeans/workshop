@@ -2,11 +2,11 @@
 description: ググってマンホールの寸法を取りながらマンホール作ってみよう。
 ---
 
-# \#03 マンホール作成 01
+# #03 マンホール作成 01
 
-## \#03 マンホール作成 01
+## #03 マンホール作成 01
 
-{% embed url="https://unihole.jp/kouzou/size/manhole\_1/" caption="" %}
+{% embed url="https://unihole.jp/kouzou/size/manhole_1/" %}
 
 マンホール作成するにあたって上記サイトの中に記載されている，寸法が重要になってきます． 今回特に重要な寸法は高さ，直径，厚みになってきます．
 
@@ -108,11 +108,10 @@ Solidに元となる図形，otherに引きたい図形を接続します． 先
 
 ![image](https://user-images.githubusercontent.com/48234687/103249561-34dffc00-49b3-11eb-88b4-5dbc1f29d2bc.png)
 
-二つの種類があるのですが，基本厚みを与える際に，＋方向は外側のことを指します．そのため，内側の直径は変わらずに外側の直径が大きくなってきます． **both\_side**の方はブーリアンでTrueかFalseを入力することで内側の円を基準に両サイド均等に厚みを与えます．
+二つの種類があるのですが，基本厚みを与える際に，＋方向は外側のことを指します．そのため，内側の直径は変わらずに外側の直径が大きくなってきます． **both_side**の方はブーリアンでTrueかFalseを入力することで内側の円を基準に両サイド均等に厚みを与えます．
 
 ![image](https://user-images.githubusercontent.com/48234687/103249631-8ab4a400-49b3-11eb-9179-841573e1232e.png)
 
-both\_sideの方で厚みを持たせると空中円柱が作成できます．
+both_sideの方で厚みを持たせると空中円柱が作成できます．
 
 ![image](https://user-images.githubusercontent.com/48234687/103249995-22ff5880-49b5-11eb-8633-64eb14455f9c.png)
-

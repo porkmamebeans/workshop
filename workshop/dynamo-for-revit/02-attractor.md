@@ -2,17 +2,17 @@
 description: パラメトリックに変化する点の集合体を作成する。
 ---
 
-# \#02 初歩: アトラクタ
+# #02 初歩: アトラクタ
 
-## \#02 初歩: アトラクタ
+## #02 初歩: アトラクタ
 
 ### コードの作成方法
 
-画面を**ダブルクリック**するとCode Blockノードが作成されます。 ![CodeBlock&#x753B;&#x50CF;](https://user-images.githubusercontent.com/48234687/101979865-1801b400-3ca4-11eb-9969-689899c4b0bf.jpg)
+画面を**ダブルクリック**するとCode Blockノードが作成されます。 ![CodeBlock画像](https://user-images.githubusercontent.com/48234687/101979865-1801b400-3ca4-11eb-9969-689899c4b0bf.jpg)
 
 試しに以下のコードを記入します。
 
-```text
+```
 a = 4;
 b = 2;
 a + b;
@@ -24,7 +24,7 @@ a + b;
 
 変数を指定しない場合は Code Block内を以下の様に記述します。
 
-```text
+```
 a;
 b;
 a + b;
@@ -38,7 +38,7 @@ NumberSliderの設定は左側の矢印を選択すると設定することが�
 
 プラスマークと雷マークの違い
 
-プラスマークは**Create**で何かを作成\(または構築\)をします。
+プラスマークは**Create**で何かを作成(または構築)をします。
 
 雷マークは**Action**で何かに対してアクションを実行します。
 
@@ -137,4 +137,3 @@ Sequenceの出力をx,yに接続した後に，**Point.ByCoordinates**の出力�
 押し出しの操作を加えることで以下の様に円柱も作成可能になります．
 
 ## ![image](https://user-images.githubusercontent.com/48234687/102008841-b8280d80-3d76-11eb-8176-e1cd7066d654.png)
-
