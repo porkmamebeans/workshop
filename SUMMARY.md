@@ -26,7 +26,7 @@
 
 ## Tutorial
 
-* [Tutorial](Tutorial/Tutorial/README.md)
+* [Tutorial](workshop/Tutorial/README.md)
 
 ***
 
