@@ -26,6 +26,8 @@
 
 ## Tutorial
 
+* [Tutorial](Tutorial/Tutorial/README.md)
+
 ***
 
 * [Dynamo Primer](https://primer.dynamobim.org)
